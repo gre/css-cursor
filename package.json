@@ -1,0 +1,16 @@
+{
+  "name": "css-cursor",
+  "version": "1.0.0",
+  "description": "Normalize the value of CSS Cursor",
+  "main": "index.js",
+  "keywords": [
+    "css",
+    "cursor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gre/css-cursor.git"
+  },
+  "author": "Gaëtan Renaudeau",
+  "license": "ISC"
+}
